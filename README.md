@@ -5,6 +5,7 @@ Portfolio index for **BadLabz** product work — separate from personal / TAI La
 | Project | Repo | Status |
 |---------|------|--------|
 | **AutoZyte** | [BadLabz/autozyte](https://github.com/BadLabz/autozyte) | Shop platform — shop, FerdAI, ZyteShelf, Zyren |
+| **Cost Estimator** | [CTATX/ai-build-crew](https://github.com/CTATX/ai-build-crew) | Canonical product home — indexed here, not hosted in BadLabz |
 | **Spoiler Saver** | TBD | Separate product line |
 | **AI Eng Bootcamp** | [CTATX/ai-eng-bootcamp](https://github.com/CTATX/ai-eng-bootcamp) | Training only — linked here, not hosted in BadLabz |
 
